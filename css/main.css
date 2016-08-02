@@ -1,0 +1,93 @@
+/* Inserte su codigo aqui */
+* {
+	font-family: 'Roboto';
+}
+/*fondo naranja superior*/
+.fondo {
+	background-color: #FFBF00;
+	height: 500px;
+}
+/*fondo de las secciones*/
+.fondoPort {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+.fondoGris {
+	background-color: #D8D8D8;
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+}
+
+/*navegador*/
+li {
+
+	display: inline-block;
+	padding: 15px;
+}
+
+/*titulos en el fondo*/
+h1, h2 {
+	color: #FFFFFF;
+}
+.acomodoTitulo{
+	padding-top: 10%;
+}
+
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.ejeSize {
+	font-size: 200%;
+}
+/*botones*/
+
+.boton {
+	background-color: #FF8000;
+	padding: 10px;
+	width: 15%;
+	height: 30%;
+	margin: 5% 0 0 10%;
+}
+
+.botonLee {
+
+    background-color: #FFBF00;
+	padding: 10px;
+	width: 25%;
+	height: 30%;
+	margin-left: 35%;
+
+}
+
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+	padding-left: 25px;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	margin-left: 100px;
+
+}
+/*acomodo*/
+
+.acomodo {
+	margin: 35px;
+	padding: 50px;
+}
+
+.acoSec {
+	margin: 10px 5px;
+}
+
+
